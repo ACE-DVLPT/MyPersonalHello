@@ -1,2 +1,2 @@
 # MyPersonalHello
-Say hello with Java program
+Say hello in Java language
